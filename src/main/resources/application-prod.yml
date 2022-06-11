@@ -2,12 +2,12 @@ server:
   port: 8080
 spring:
   application:
-    name: websocket-group-demo
+    name: task5
   datasource:
     driver-class-name: org.postgresql.Driver
-    url: jdbc:postgresql://ec2-3-211-221-185.compute-1.amazonaws.com:5432/da068g65nkn84h
-    username: jccdqbqlgpzycp
-    password: 591d712f7b2010b050616f624a529781352632f52c7163969059f790ba4d4fd6
+    url: jdbc:postgresql://ec2-34-198-186-145.compute-1.amazonaws.com:5432/d9lcrn9t188d31
+    username: uayvndjkrttcnr
+    password: 82b56d97c383b372cad7acd30e0ba60351326227b0affe191276022294cfa52b
   jpa:
     show-sql: true
     hibernate:
