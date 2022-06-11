@@ -3,7 +3,7 @@ server:
 
 spring:
   application:
-    name: websocket-group-demo
+    name: task5
   datasource:
     driver-class-name: org.postgresql.Driver
     url: jdbc:postgresql://localhost:5432/itransition_task5
